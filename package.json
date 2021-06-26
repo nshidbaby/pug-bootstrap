@@ -39,6 +39,7 @@
     "mocha": "^2.3.4"
   },
   "dependencies": {
+    "core-js": "^3.3",
     "pug": "2.0.3"
   }
 }
